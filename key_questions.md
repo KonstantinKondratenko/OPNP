@@ -25,7 +25,6 @@
 
 
 # Список использованных источников
-1. https://www.researchgate.net/publication/260529522_UAV_for_3D_mapping_applications_A_review
-2. https://www.sciencedirect.com/science/article/pii/S1569843224000219
-3. https://www.researchgate.net/publication/316588344_Accuracy_of_Photogrammetric_UAV-Based_Point_Clouds_under_Conditions_of_Partially-Open_Forest_Canopy
+1. Nex F., Remondino F., UAV for 3D mapping  applications: A review. Appl. Geomat. 2014. URL: https://doi.org/10.1007/s12518-013-0120-x
+2. Shuhang Zhang, Chun Liu, 3. Norbert Haala, Guided by model quality: UAV path planning for complete and precise 3D reconstruction of complex buildings //International Journal of Applied Earth Observation and Geoinformation, Volume 127. 2024. URL: https://www.sciencedirect.com/science/article/pii/S1569843224000219
 
