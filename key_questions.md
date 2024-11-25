@@ -5,7 +5,7 @@
 Построение трехмерных моделей целевого объекта с помощью проведения фотографической съемки объекта с использованием беспилотных летательных аппаратов (БПЛА).
 
 ## Актуальность
-В связи с растущей популярностью использования бепилотных летательных аппратов в сфере фотограмметрических ислледований[1][2], важно понимать, какие параметры траектории полета беспилотного летательного аппарата влияют на качество построения модели целевых объектов: высота полета, оснащение датчиками, настройки камеры, количество контрольных точек, методы позиционирования.
+В связи с растущей популярностью использования бепилотных летательных аппратов в сфере фотограмметрических ислледований[1][2], важно понимать, какие параметры траектории полета беспилотного летательного аппарата влияют на качество построения модели целевых объектов: высота полета, оснащение датчиками, настройки камеры, количество контрольных точек, методы позиционирования. Однако существующие решения не рассматривают количественный метод для анализа влияния конфигурации полета на точность посторения моделей[3].
 
 ## Объект исследования
 Взаимосвязь траекторий движения БПЛА с характеристиками получаемых трехмерных моделей.
@@ -27,4 +27,6 @@
 
 ## Список использованных источников
 1. Nex F., Remondino F., UAV for 3D mapping  applications: A review. Appl. Geomat. 2014. URL: https://doi.org/10.1007/s12518-013-0120-x
-2. Shuhang Zhang, Chun Liu, 3. Norbert Haala, Guided by model quality: UAV path planning for complete and precise 3D reconstruction of complex buildings //International Journal of Applied Earth Observation and Geoinformation, Volume 127. 2024. URL: https://www.sciencedirect.com/science/article/pii/S1569843224000219
+2. Shuhang Zhang, Chun Liu, Norbert Haala, Guided by model quality: UAV path planning for complete and precise 3D reconstruction of complex buildings //International Journal of Applied Earth Observation and Geoinformation, Volume 127. 2024. URL: https://www.sciencedirect.com/science/article/pii/S1569843224000219
+3. Liu, Y.; Han, K.; Rasdorf, W. Assessment and Prediction of Impact of Flight Configuration Factors on UAS-Based Photogrammetric Survey Accuracy. Remote Sens. 2022, 14, 4119. URL: https://doi.org/10.3390/rs14164119
+
