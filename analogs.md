@@ -1,7 +1,15 @@
 # Сравнение аналогов
 ## Принцип отбора аналогов
 
-Опишите в одном абзаце, по какому принципу вы искали аналоги. Описание должно быть воспроизводимым, то есть ваш читатель должен суметь по нему найти ваши аналоги.
+Поиск аналогов производился путем поиска статей на платформе google scholar, c помощью комбинации следующие ключевые слова:
+UAV trajectory flight path planning building aerial 3d reconstruction quality models photogrammetric photogrammetry.
+Так были использованы следующие запросы:
+1. UAV trajectory planning for building reconstruction
+2. UAV trajectory planning for building photogrammetry
+3. path planning for aerial 3d reconstruction 
+4. flight path and quality photogrammetric models
+
+Таким образом производился поиск синонимичных конструкция. В рамках моей задачи одинаково хорошо подходят и UAV trajectory, и flight path, и path planning. Отбирались относительно новые статьи (все, кроме одной написаны не раньше 2020 года, а оставшаяся в 2018 году).
 
 ### <Аналог1>
 
@@ -35,4 +43,8 @@
 
 # Список использованных источников
 
-Нумерованный список источников
+1. 1
+2. 2
+3. 3
+4. 4
+5. 5
